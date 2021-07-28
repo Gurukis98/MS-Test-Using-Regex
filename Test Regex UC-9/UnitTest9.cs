@@ -89,7 +89,7 @@ namespace Test_Regex_UC_9
             }
             else
             {
-                Console.WriteLine("EMail is Not Valid");
+                Console.WriteLine("EMail is Not Valid ");
             }
         }
     }
