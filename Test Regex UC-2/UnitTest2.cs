@@ -18,7 +18,7 @@ namespace Test_Regex_UC_2
             }
             else
             {
-                Console.WriteLine("Lastname is Not Valid ");
+                Console.WriteLine("Lastname is Not Valid");
             }
         }
     }
