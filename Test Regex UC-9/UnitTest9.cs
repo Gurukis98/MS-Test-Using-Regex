@@ -10,7 +10,7 @@ namespace Test_Regex_UC_9
         [TestMethod]
         public void TestMethod9()
         {
-            Console.WriteLine("Enter a Eight EMails\n");
+            Console.WriteLine("Enter a Valid EMails\n");
             string email1 = "abc@yahoo.com";
             string email2 = "abc-100@yahoo.com";
             string email3 = "abc.100@yahoo.com";
